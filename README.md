@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juilli
+- 👋 Hi, I’m @lukasv
 - 👀 I’m interested in building apps
 - 🌱 I’m currently learning React.js and React Native
 - 📫 How to reach me ... dm me here
